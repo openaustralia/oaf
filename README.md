@@ -1,7 +1,7 @@
 OpenAustralia Foundation
 ========================
 
-Welcome! If you're looking to contribute to OpenAustralia Foundation projects you've come to the right place.
+Welcome! If you're looking to contribute to [OpenAustralia Foundation](https://www.openaustraliafoundation.org.au/) projects you've come to the right place.
 
 You can find our other projects on GitHub:
 
