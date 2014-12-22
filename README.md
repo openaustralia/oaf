@@ -1,6 +1,5 @@
-[![Stories in Ready](https://badge.waffle.io/openaustralia/oaf.png?label=ready&title=Ready)](https://waffle.io/openaustralia/oaf)
-OpenAustralia Foundation
-========================
+# OpenAustralia Foundation [![Stories in Ready](https://badge.waffle.io/openaustralia/oaf.png?label=ready&title=Ready)](https://waffle.io/openaustralia/oaf)
+
 
 Welcome! If you're looking to contribute to [OpenAustralia Foundation](https://www.openaustraliafoundation.org.au/) projects you've come to the right place.
 
