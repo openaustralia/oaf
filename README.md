@@ -5,6 +5,7 @@ Welcome! If you're looking to contribute to [OpenAustralia Foundation](https://w
 
 You can find our other projects on GitHub:
 
+* [They Vote for You](https://github.com/openaustralia/publicwhip)
 * [OpenAustralia.org](https://github.com/openaustralia/openaustralia)
 * [PlanningAlerts](https://github.com/openaustralia/planningalerts-app)
 * [Election Leaflets](https://github.com/openaustralia/electionleaflets)
