@@ -1,0 +1,1178 @@
+[[disclosure-of-public-servants-names-and-contact-details]]
+Disclosure of public servants’ names and contact details
+--------------------------------------------------------
+:doctype: article
+:website: https://www.oaic.gov.au/engage-with-us/consultations/disclosure-of-public-servants-names-and-contact-details/discussion-paper-disclosure-of-public-servants-names-and-contact-details
+:author: Office of the Australian Information Commissioner
+:date: July 2019
+[[discussion-paper]]
+Discussion paper
+----------------
+
+July 2019
+
+[[summary]]
+Summary
+~~~~~~~
+
+The Office of the Australian Information Commissioner (OAIC) is aware of
+agency concerns about the disclosure of public servants’ names and
+contact details in the context of FOI requests, both in response to FOI
+requests and when requests are being processed.
+
+The purpose of this discussion paper is twofold; firstly to provide
+greater awareness of the relevant guidance and decisions regarding the
+disclosure of public servants’ names and contact details, including the
+circumstances in which public servants’ names and contact details may be
+released or published in response to an FOI request and when they may be
+exempt from disclosure. Secondly, this discussion paper also seeks to
+explore agency concerns and practices in relation to this issue.
+
+It is not the intention of this discussion paper to explore the legal
+requirements for the name and designation of a decision maker to be
+stated in a notice of decision
+(ss http://www.austlii.edu.au/cgi-bin/viewdoc/au/legis/cth/consol_act/foia1982222/s26.html[26(1)(b)]
+and
+http://www.austlii.edu.au/cgi-bin/viewdoc/au/legis/cth/consol_act/foia1982222/s29.html[29(9)])
+or the name and contact details in a request consultation notice
+(http://www.austlii.edu.au/cgi-bin/viewdoc/au/legis/cth/consol_act/foia1982222/s24ab.html[s 24AB(2)(c)
+and (d)]).
+
+Rather, this paper focusses on the circumstances in which public
+servants’ names and contact details are included in the documents at
+issue, and the FOI Act provisions that agencies have relied on to
+withhold this information from disclosure — namely
+ss http://www.austlii.edu.au/cgi-bin/viewdoc/au/legis/cth/consol_act/foia1982222/s22.html[22]
+(relevance),
+http://www.austlii.edu.au/cgi-bin/viewdoc/au/legis/cth/consol_act/foia1982222/s47e.html[47E](c)
+(substantial adverse effect on the management or assessment of
+personnel),
+http://www.austlii.edu.au/cgi-bin/viewdoc/au/legis/cth/consol_act/foia1982222/s47e.html[47E(d])
+(substantial adverse effect on agency operations) and
+http://www.austlii.edu.au/cgi-bin/viewdoc/au/legis/cth/consol_act/foia1982222/s47f.html[47F]
+(personal privacy).
+
+[[in-seeking-to-further-explore-this-issue-we-invite-you-to-comment-on-your-experience-as-an-foi-practitioner-or-as-someone-who-has-sought-access-to-information-from-an-australian-government-agency-or-minister.-to-assist-you-to-do-this-at-the-end-of-this-paper-we-have-posed-a-series-of-questions-to-explore-the-issues-and-have-provided-information-about-how-you-can-submit-your-comments.]]
+In seeking to further explore this issue, we invite you to comment on
+your experience as an FOI practitioner, or as someone who has sought
+access to information from an Australian Government agency or minister.
+To assist you to do this, at the end of this paper we have posed a
+series of questions to explore the issues and have provided information
+about how you can submit your comments.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The information gathered as part of this consultation will be used to
+consider whether the FOI Guidelines provide sufficient and appropriate
+guidance for agencies and ministers in relation to the disclosure of the
+names and contact details of public servants in the current information
+access landscape.
+
+[[background]]
+Background
+~~~~~~~~~~
+
+Public servants’ names and contact details may be in a wide range of
+documents generated and held by Australian government agencies. Usually
+this is because the public servant was involved, to some degree or
+extent, with the work which is the subject of the
+documents.footnote:[Part 6.157 of the FOI Guidelines distinguishes
+between this kind of personal information and personal information that
+_does not_ relate to the public servant’s usual duties and
+responsibilities. For example, if a document contains information about
+an individual’s disposition or private characteristics, such as the
+reasons a public servant has applied for personal leave, information
+about their performance management or whether they were unsuccessful in
+a recruitment process. This kind of personal information is not the
+subject of this issues paper.]
+
+It has long been considered that in general, disclosure of public
+servants’ names in response to an FOI request would not be unreasonable.
+Such disclosure forms part of the system of accountability and
+transparency of government actions and decision making.
+
+Freedom of Information Memorandum No. 94 (dated June
+1994)footnote:[Freedom of Information Memorandums were issued by the
+Attorney-General’s Department and provided guidance to Australian
+government agencies in exercising powers and discharging functions under
+the FOI Act.] states:
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+12 … It was not Parliament's intention to provide anonymity for public
+officials each time one of them is mentioned in a file. That would be
+contrary to the stated aims of the FOI Act and would not assist in
+promoting openness or accountability.
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Further, in relation to consultation, Memorandum No. 94 states [emphasis
+added]:
+
+__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+\21. One major example of circumstances which would be relevant [to the
+need to consult under s 27A] is where the name of an official appears in
+a document in the normal course of the official's duties. _There is no
+personal privacy interest in that information, and there is no need to
+consult with officials in such circumstances._ The situation would be
+different, however, where the information related to something in which
+there may be some real privacy concern, such as work performance
+information concerning an individual official, or information relating
+to alleged disciplinary offences or sexual harassment. Other information
+relating to an official may be entirely private in nature, such as
+information relating to the official's entitlement to bereavement leave
+because of the death of a close relative…
+__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+The OAIC’s view, as expressed in the FOI Guidelines, is that it would
+not be unreasonable to disclose public servants’ personal information
+unless special circumstances exist:
+
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+6.153 Where public servants’ personal information is included in a
+document because of their usual duties or responsibilities, it would not
+be unreasonable to disclose unless special circumstances existed. This
+is because the information would reveal only that the public servant was
+performing their public duties. Such information may often also be
+publicly available, such as on an agency website.
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+The FOI Guidelines recognise that in some circumstances disclosure of
+public servants’ personal information, including their names, may be
+unreasonable:
+
+_________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+6.154 When considering whether it would be unreasonable to disclose the
+names of public servants, there is no basis under the FOI Act for
+agencies to start from the position that the classification level of a
+departmental officer determines whether his or her name would be
+unreasonable to disclose. _In seeking to claim the exemption an agency
+needs to identify the special circumstances which exist rather than
+start from the assumption that such information is exempt._ [Emphasis
+added]
+
+6.155 In _Maurice Blackburn Lawyers and Department of Immigration and
+Border Protection_ [2015] AICmr 85, where the agency raised the concern
+that disclosure would affect the personal safety of its officers, the
+Information Commissioner said that there is no apparent logical basis
+for distinguishing between the disclosure of SES officers and other
+officers’ names, particularly where the purported concern is that
+disclosure could affect personal safety.
+
+6.156 A document may, however be exempt for another reason, for example,
+where disclosure would, or could reasonably be expected to, endanger the
+life or physical safety of any person (s 37(1)(c)). In addition, where
+an individual has a propensity to pursue matters obsessively and there
+is no need for them to contact a particular public servant in the
+future, disclosure of the public servant’s name may be unreasonable.
+_________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+[[decisions-commonwealth-and-other-jurisdictions]]
+Decisions: Commonwealth and other jurisdictions
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+There have been various decisions made by the Administrative Appeals
+Tribunal (AAT) and former and current Information, FOI and Privacy
+Commissioners regarding the disclosure of the names and contact details
+of public servants. These decisions discuss the relevant legislative
+tests and the submissions provided by agencies to demonstrate why such
+information should exempt. In cases where agencies have claimed that
+names and contact details are conditionally exempt, this requires first,
+consideration as to whether the relevant exemption has been made out,
+and second, whether disclosure would be contrary to the public interest.
+
+In the context of Information Commissioner (IC) reviews,
+http://www.austlii.edu.au/cgi-bin/viewdoc/au/legis/cth/consol_act/foia1982222/s55d.html[s 55D]
+of the FOI Act provides that the agency or Minister bears the onus of
+establishing that an FOI decision is justified or that the Information
+Commissioner should give a decision adverse to the IC review applicant.
+When making an IC review decision, the Information Commissioner relies
+on agencies making submissionsfootnote:[See
+https://www.oaic.gov.au/freedom-of-information/foi-guidelines/part-10-review-by-the-information-commissioner#on-receiving-a-review-application[Part
+10] of the FOI Guidelines and
+‘https://www.oaic.gov.au/freedom-of-information/ic-review-procedure-direction/direction-as-to-certain-procedures-to-be-followed-in-ic-reviews[Direction
+as to certain procedures to be followed in IC reviews]’.] and providing
+evidence to establish that special circumstances exist (such that it
+would be unreasonable to disclose public servants’ personal
+information), or that disclosure would have a substantial adverse effect
+on the proper and efficient conduct of agency operations or on the
+management or assessment of personnel by the Commonwealth or by an
+agency, and that disclosure would be contrary to the public interest.
+
+The table at *Attachment A* to this paper highlights the approach taken
+by the AAT and the Information Commissioners when considering whether it
+would be unreasonable to disclose public servants’ personal information.
+
+The table at *Attachment B* summarises decisions from other relevant
+jurisdictions regarding the disclosure of public servants’ names.
+Although caution is required when considering cases from other
+jurisdictions, the principles articulated are consistent with the
+approach adopted by the OAIC despite these legislative differences.
+
+[[consultation-questions]]
+Consultation Questions
+^^^^^^^^^^^^^^^^^^^^^^
+
+The OAIC seeks comment on the issues raised in this paper.
+
+Please provide examples of the situations or circumstances you describe
+in your submissions. To assist you frame your response, you may wish to
+consider the following questions.
+
+For agencies:
+
+1.  Does your agency have concerns about releasing the names and contact
+details of staff in response to FOI requests? If so, what are your
+concerns? Has your agency experienced any specific work health and
+safety issues as a result of a person’s name or contact details being
+released in response to an FOI request?
+2.  Have your agency’s views on this issue changed over time? If so,
+please describe any factors that have affected your agency’s
+approach, including technological, environmental or legal factors.
+3.  Does your agency advise staff, including contractors undertaking
+functions on behalf of the agency, that names and contact details may be
+released in response to an FOI request as part of your agency’s training
+and induction programs?
+4.  How do you balance work health and safety considerations with the
+objects of the FOI Act, which include increasing public participation in
+Government processes with a view to promoting better-informed decision
+making and increasing scrutiny, discussion, comment and review of the
+Government’s activities?
+5.  If your agency considers that disclosure of a public servant’s name
+or contact details will negatively impact their health or safety, what
+evidence do you require before deciding that their name or contact
+details are exempt from disclosure?
+6.  Do you consider the FOI Guidelines provide enough guidance for
+agencies when considering these issues?
+7.  In what circumstances do you consider that a public servant’s
+personal information (name and contact details) are irrelevant to the
+FOI request?
+8.  Where you have withheld the names and contact details of public
+servants, what impact does deleting this information from documents have
+on the time it takes to process FOI requests?
+
+For members of the public:
+
+1.  As a person who has requested access to documents from an Australian
+Government agency, have you been denied access to the names of agency
+staff? Did you consider this decision was justified? If no, why not?
+2.  What are your views on deletion of the names of public servants and
+their contact details before documents are released in response to an
+FOI request? What are the reasons for your view?
+
+[[how-to-provide-comments]]
+How to provide comments
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Submissions can be made by:
+
+[cols=",",options="header",]
+|======================================================
+|*Email* |mailto:foidr@oaic.gov.au[*foidr@oaic.gov.au*]
+|*Post* |GPO Box 5218 +
+Sydney NSW 2001
+|======================================================
+
+The closing date for comments is Friday 26 July 2019.
+
+The OAIC intends to make all submissions publicly available. Please
+indicate when making your submission if it contains confidential
+information you do not want made public and the reasons why it should
+not be published. Requests for access to confidential comments will be
+determined in accordance with the FOI Act.
+
+Although you may lodge submissions electronically or by post, electronic
+lodgement is preferred. To help the OAIC meet its accessibility
+obligations, we would appreciate you providing your submission in a web
+accessible format or alternatively, in a format that will allow the OAIC
+to easily convert it to HTML code, for example Rich Text Format (.rtf)
+or Microsoft Word (.doc or .docx) format.
+
+[[privacy-collection-statement]]
+Privacy collection statement
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+The OAIC will only use the personal information it collects during this
+consultation for the purpose of considering the issues associated with
+the disclosure of public servants’ names and contact details in response
+to an FOI request.
+
+[[decisions-commonwealth-jurisdiction]]
+Decisions: Commonwealth jurisdiction
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[[administrative-appeals-tribunal]]
+Administrative Appeals Tribunal
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+[cols=",,",options="header",]
+|=======================================================================
+|Decision |Case |Key messages
+a|
+Unreasonable to disclose any personal information of Departmental staff
+but not unreasonable to disclose names of staff (but not contact
+details) of staff engaged by the Commissioner for Complaints
+
+(Section 41(1))footnote:[Section 41 of the FOI Act is the equivalent
+provision to s 47F in the current FOI Act.]
+
+ a|
+http://www8.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AATA/2006/36.html[_Bartucciotto
+and Commissioner for Complaints_] [2006] AATA 36 (17 January 2006)
+
+[19]–[27]
+
+ a|
+* The relevant personal information relates exclusively to public
+servants in the context of their performance of their public duties. As
+a general rule, disclosure of such personal information will not be
+unreasonable.
+* There was evidence before the Tribunal that the applicant had engaged
+in intimidating and aggressive behaviour, both by telephone and in
+person, against staff of the Department of Health and Ageing and had
+made threats against officers. In these circumstances disclosure of any
+personal information would be unreasonable.
+* However in relation to staff employed by the Commissioner of
+Complaints, while there was evidence that the applicant had communicated
+aggressively by telephone and in letters on numerous occasions, there
+was no evidence of any threatening or intimidating behaviour towards
+particular officers. Further, there was no evidence that any officer
+specifically objected to their personal information being disclosed to
+the applicant. As a result, the Tribunal considered it would not be
+unreasonable to disclose the names of officers contained in the relevant
+documents, but that it would be unreasonable to disclose contact details
+— namely, email addresses, direct work telephone and fax number.
+
+a|
+Not unreasonable to disclose names of public servants who attended
+meetings as contained in the Attorney-General’s diary
+
+(Section 47F)
+
+ a|
+_http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AATA/2015/995.html[Dreyfus
+and Attorney-General (Commonwealth of Australia) Freedom of
+information]) [2015] AATA 995 (22 December 2015) (Justice Jagot)_
+
+[50]
+
+ a|
+* There is no basis upon which the personal privacy exemption can apply
+insofar as the names of public servants are disclosed as having attended
+meetings with the Attorney-General.
+
+a|
+Not unreasonable to disclose messages to which FOI applicant is a party
+
+Disclosing internal investigation reports would have a substantial
+adverse impact on the management of personnel
+
+(Sections 47E(c) and 4F)
+
+ a|
+http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AATA/2016/230.html?context=1;query=isenberg%2047E(c)%20foi%20;mask_path=au/cases/cth/AATA[_De
+Tarle and Australian Securities and Investments Commission (Freedom of
+information)_] [2016] AATA 230 (8 April 2016)
+
+[24]–[26], [42]
+
+ a|
+* There can be no proper claim under s 47F where the applicant is a
+party to the communication; even when documents include derogatory
+comments about others, information about performance reviews and
+supervision, or personal information unrelated to the individual’s
+duties as a public servant (personal email addresses, mobile numbers,
+feelings and health issues).
+* Candour is essential when an agency investigates complaints,
+especially those of bullying and harassment. Staff may be reluctant to
+provide information and cooperate with investigators if the subject
+matter of those discussions is disclosed and made public.
+
+a|
+Not unreasonable to disclose names of people interviewed as part of
+criminal investigation
+
+(Section 47F)
+
+ a|
+http://www8.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AATA/2016/330.html[_Leigh
+and Australian Federal Police (Freedom of information)_] [2016] AATA 330
+(20 May 2016)
+
+[40]–[55]
+
+ a|
+* Although in the circumstances of this matter it would not be
+unreasonable to disclose the names of people interviewed as part of a
+criminal investigation, because this information appears in the
+documents because of their usual duties and responsibilities, it will
+not the case that it will never be unreasonable to disclose this
+information.
+* The relevant report was more than 12 years old and related to events
+that occurred 17 months before its creation. The level of detriment
+following disclosure would be low or no-existent. which mitigated
+against finding that disclosure
+
+a|
+Contrary to the public interest to disclose email addresses, surnames,
+signatures
+
+(Section 47F)
+
+ a|
+http://www8.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AATA/2016/1044.html#para40[_Price
+and Attorney General’s Department (Freedom of information)_] [2016] AATA
+1044 (20 December 2016)
+
+[37]–[45]
+
+ a|
+* Disclosing the surnames, signatures, email addresses and user IDs of
+officers, other than particular executive officers would be contrary to
+the public interest.
+* The potential for harm was a real given the nature of agency’s role
+(harassment from complainants and other inappropriate contact).
+
+a|
+Not unreasonable to disclose names
+
+(Section 47F)
+
+ a|
+_http://www8.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AATA/2017/1407.html[Lever
+and Australian Federal Police (Freedom of information)]_ [2017] AATA
+1407 (22 August 2017)
+
+[53]–[56]
+
+ a|
+* The exempt material identifies staff on duty at Australia’s Nuclear
+Science and Technology Organisation on a particular day.
+* The Respondent submits that the zeal with which the applicant pursued
+his application indicates he may press these staff for more information.
+* The Tribunal was not satisfied the Respondent had established that the
+applicant has a tendency to pursue matters obsessively, or that there is
+no need for him to contact the relevant persons in the future. The
+factual background to the FOI request was not relevant to the issues for
+determination in this review and although the Tribunal accepted the
+applicant had pursued his application with unusual vigour, whether this
+amounted being obsessive depends on underlying facts not within the
+scope of the review. Similarly, whether there was any need for him to
+contact relevant staff depends on the same questions, as well as his
+intentions as to other litigation, which would be speculative to
+consider on the evidence before the Tribunal.
+* The fact that the applicant sought to call the named individuals to
+give evidence was not relevant to the decision whether the documents
+were exempt (see s 11(2) of the FOI Act).
+
+|=======================================================================
+
+[[australian-information-commissioner]]
+Australian Information Commissioner
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[cols=",,",options="header",]
+|=======================================================================
+|Decision |Case |Key messages
+a|
+Unreasonable to disclose unsubstantiated allegations
+
+(Section 47F)
+
+ a|
+http://www8.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2013/12.html[_Besser
+and Attorney-General’s Department_ [2013] AICmr 12] (25 February 2013)
+
+[25] and [30]
+
+ a|
+* Disclosing the names and personal details of AFP officers against whom
+unsubstantiated allegations were made would involve a serious and
+significant invasion of their privacy and cause unnecessary harm and
+detriment to them and their families.
+
+a|
+Not unreasonable to disclose outcome of Code of Conduct investigation
+
+Unreasonable to disclose information not related to officer’s usual
+functions
+
+(Section 47F)
+
+ a|
+http://www6.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2013/54.html[_‘AF’
+and Department of Immigration and Citizenship_] [2013] AICmr 54 (26
+April 2013)
+
+[54]–[56]
+
+ a|
+* It would not be unreasonable to disclose personal information relating
+to the sanction imposed following an internal investigation because this
+demonstrates that allegations are taken seriously, that the agency does
+not tolerate behaviour that is inconsistent with the APS Code of Conduct
+and that the appropriate sanction was imposed.
+
+* Disclosing a statement that the officer changed their name on a
+specific date would be unreasonable because it is unrelated to their
+usual duties and responsibilities.
+
+a|
+Not unreasonable to disclose names where applicant is aware of them
+
+(Section 47F)
+
+ a|
+http://www6.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2013/59.html[_‘AH’
+and Australian Federal Police_ [2013] AICmr 59]
+
+(6 June 2013)
+
+[21]
+
+ a|
+* When the applicant is aware of the identity of the officers
+investigated and the nature of the sanction imposed, it will not be
+unreasonable to disclose information about when and how those officers
+were notified of the sanction and what further action was considered.
+
+* In terms of public interest, disclosure demonstrates the agency takes
+allegations seriously and does not tolerate behaviour inconsistent with
+the Code of Conduct.
+
+a|
+Unreasonable to disclose information which might identify individual
+under investigation
+
+Personal information can be edited from documents for publication on
+disclosure log
+
+(Section 47F)
+
+ a|
+http://www6.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2013/65.html#fn17[_Besser
+and Department of Families, Housing, Community Services and Indigenous
+Affairs_] [2013] AICmr 65 (21 August 2013)
+
+[31] and [33]–[34]
+
+ a|
+* If disclosing dates would identify an individual under investigation
+it would be unreasonable to release this information (for example,
+commencement date or periods of absence from work would likely be
+sufficient for one of their co-workers to identify them).
+* A person’s signature can be edited from the document before being
+published on the agency’s disclosure log
+
+a|
+Unreasonable to disclose date and place of birth, mobile telephone
+number
+
+(Section 47F)
+
+ a|
+http://www6.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2013/66.html[_Hunt
+and Australian Federal Police_ [2013] AICmr 66] (23 August 2013)
+
+[72]–[74]
+
+ a|
+* It is not unreasonable to release personal information such as names,
+work email addresses, positions or titles, work contact details and
+decisions or opinions because this information appears in documents
+because of the person’s usual duties or responsibilities.
+
+* It would be unreasonable to release personal details such as dates and
+places of birth and personal mobile telephone numbers.
+
+a|
+Unreasonable to disclose names of officers interviewed during
+investigation
+
+[[section-47f]]
+(Section 47F)
+
+ a|
+http://www6.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2013/77.html[_‘AO’
+and Department of Veterans’ Affairs_ [2013] AICmr 77] (21 October 2013)
+
+[63]
+
+ a|
+* When information is given confidentially by public servants during an
+internal investigation it would be unreasonable to disclose their
+identity or any record of their statements.
+
+a|
+[[may-be-unreasonable-to-disclose-mobile-phone-numbers]]
+May be unreasonable to disclose mobile phone numbers
+
+Not unreasonable to disclose mobile phone numbers if included in work
+signature block
+
+(Section 47)
+
+ a|
+http://www6.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2013/83.html[_Thomson
+and Australian Federal Police_ [2013] AICmr 83] (22 November 2013)
+
+[13]
+
+ a|
+* Work mobile phone numbers can be personal information.
+* It would not be unreasonable to disclose a mobile phone number if
+included in an email signature and sent outside the organisation, where
+the phone number has been included in a document because of the
+employee’s usual duties or responsibilities.
+
+* Agencies need to carefully consider their policies and practices when
+including mobile phone numbers in email signatures for external emails.
+
+a|
+Not unreasonable to disclose names when applicant aware of them
+
+No substantial adverse effect on agency operations
+
+(Sections 47E(d) and 47F)
+
+ a|
+_http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2013/87.html[Rudd
+and Civil Aviation Safety Authority]_ [2013] AICmr 87 (11 December 2013)
+
+[24] and [34]
+
+ a|
+* It would not be unreasonable to disclose the names of public servants
+against whom the applicant has complained.
+* Information about other employees only reveals they are performing
+their public duties.
+
+* It will not be unreasonable to disclose an investigator’s findings
+because these provide only a general summary of issues and
+recommendations for future action and does not disclose any personal
+information.
+
+a|
+Unreasonable to disclose recruitment information
+
+(Section 47F)
+
+ a|
+‘_http://www8.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2014/9.html[BA’
+and Merit Protection Commissioner]_ [2014] AICmr 9 (30 January 2014)
+
+[92]–[93] and [95]
+
+ a|
+* Even if documents contain positive information about an individual
+which is unlikely to embarrass them, recruitment information is highly
+personal because it shows how the individual performed at interview and
+their rating.
+
+* It will be unreasonable to disclose a person’s job application and
+submissions. These documents contain distinctly personal information
+about the individual’s career and their perceived strengths. The
+documents were also prepared for a specific purpose, with a particular
+audience in mind, and with the expectation they would be treated
+confidentially.
+
+a|
+No substantial adverse effect on agency operations established
+
+(Section 47E(d))
+
+ a|
+http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2014/11.html[_‘BB’
+and Department of Human Services_] [2014] AICmr 11 (6 February 2014)
+
+[15]–[27]
+
+ a|
+* Clause in Enterprise Agreement which says the Department will ‘work
+toward ensuring’ that employees have a choice about whether to provide
+their full name or only a first name in response to public enquiries
+does not unconditionally assure staff that their identity will be
+protected.
+* Clause in Enterprise Agreement does not permit staff to deal with
+members of the public anonymously.
+* No evidence that disclosure of names in response to an FOI request
+would divert contact on a scale that is substantial and adverse.
+
+a|
+Not unreasonable to disclose names, signatures and investigator
+identification numbers
+
+(Section 47F)
+
+ a|
+http://www8.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2014/133.html[_Stephen
+Waller and Department of Environment_] [2014] AICmr 133 (25 November
+2014)
+
+[50]–[52]
+
+ a|
+* The Departmental officers identified in the documents are acting in
+their professional capacity as public servants. None of the information
+in the document relates to the individuals in their private capacity.
+* The Departmental officers are known by the occupier, but not by the
+applicant or the third party, to have been associated with the matters
+dealt with in the documents
+
+a|
+Substantial adverse impact on management of staff to disclose details of
+complainants
+
+Not unreasonable to disclose staff signatures and initials
+
+Unreasonable to disclose names of individuals subject to internal
+investigation
+
+(Sections 47E(C) and 47F)
+
+ a|
+‘http://www8.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2015/71.html[_HJ’
+and Australian Federal Police [2015] AICmr 71_] (6 November 2015)
+
+[20]–[22], [31]–[34] and [38]–[40]
+
+ a|
+* Exempting all staff signatures and initials would require the
+Information Commissioner to find that being employed by an agency is a
+‘special circumstance’.
+* Disclosure would be unreasonable where a named individual is
+associated with the subject matter of the documents (completed
+investigations).
+
+a|
+Not unreasonable to disclose names of staff at all levels
+
+(Section 47F)
+
+ a|
+http://www8.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2015/85.html[_Maurice
+Blackburn Lawyers and Department of Immigration and Border Protection_]
+[2015] AICmr 85 (18 December 2015)
+
+[3], [14]–[17], [21] and [25]–[27]
+
+ a|
+* Agencies should not start from the position that an officer’s
+classification will determine whether it would be unreasonable to
+disclose their name.
+* Whether the applicant intends disseminating the names of departmental
+officers may be a relevant consideration in deciding that disclosure
+would be unreasonable.
+* Increasing scrutiny, discussion, comment and review of the
+government’s activities are some of the stated objects of the FOI Act
+which need to be balanced with disclosure of public servants’ personal
+information.
+
+a|
+Unreasonable to disclose names of departmental officers
+
+(Section 47F)
+
+ a|
+http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2016/25.html[_Australian
+Associated Press Pty Ltd and Department of Immigration and Border
+Protection_] [2016] AICmr 25 (22 April 2016)
+
+[50]–[53]
+
+ a|
+* Where public servants have been appointed to investigate and report on
+the conduct of other officers, with potentially significant consequences
+for the personnel concerned, it is unreasonable to release their names.
+* Facts in this case distinguished from Maurice Blackburn Lawyers and
+Department of Immigration and Border Protection
+http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2015/85.html[[2015]
+AICmr 85], where disclosure would reveal only that the departmental
+officers were carrying their usual duties or responsibilities.
+
+a|
+Not unreasonable to disclose signature
+
+(Section 47F)
+
+ a|
+http://www8.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2016/62.html[_‘JN’
+and Commonwealth Ombudsman_] [2016] AICmr 62 (19 September 2016)
+
+[36]–[38]
+
+ a|
+* The Ombudsman did not present any special circumstances justifying the
+exemption of the signature, beyond the individual acting in their
+official capacity as an officer of the AFP.
+
+a|
+No special circumstances - disclosure of names and titles not
+unreasonable
+
+No substantial adverse impact on agency operations established
+
+(Sections 47E(d) and 47F)
+
+ a|
+http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2017/11.html[_John
+Mullen and Australian Aged Care Quality Agency (Freedom of
+information)_] [2017] AICmr 11 (1 February 2017)
+
+[27]–[29} and [35]–[37]
+
+ a|
+* The Tribunal was not satisfied that the nature and extent of previous
+contact between the applicant with Agency staff amounted to special
+circumstances that would make disclosure of officers’ names and titles
+unreasonable (two telephone conversations, two missed calls on a staff
+member’s work mobile telephone and one voicemail message requesting a
+hard copy of the redacted documents).
+* Disclosure of names and titles would not be unreasonable.
+* Merely asserting that disclosure would have a substantial adverse
+impact on agency operations is not sufficient to discharge an agency’s
+onus under s 55 of the FOI Act. Evidence is needed to establish that the
+centralised complaints management process would be affected by the
+applicant directly contacting staff. This was especially so because the
+evidence was that many of the relevant staff no longer worked for the
+Agency.
+
+a|
+Substantial adverse impact on operation of media section not established
+
+Not unreasonable to disclose names of staff working in media operations
+section
+
+Unreasonable to disclose names of former staff members
+
+(Sections 47E(d) and 47F)
+
+ a|
+http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2017/62.html[_The
+Australian and Department of Immigration and Border Protection (Freedom
+of information)_] [2017] AICmr 62 (27 June 2017)
+
+[16] and [24]–[28]
+
+ a|
+* The Department did not provide particulars of how the predicted
+adverse effects could reasonably be expected to occur on a scale that
+would or could have a substantial adverse effect on the proper and
+efficient operations of its media operations section.
+* Although Department provided examples relating to the personal safety
+of staff, the Information Commissioner was not satisfied this
+established that disclosure would, or could reasonably be expected to,
+result in staff in the _media operations section_ being exposed to
+online stalking or harassment, or would affect their personal safety.
+
+a|
+Not unreasonable to disclose names and contact details
+
+Section 47F
+
+ a|
+_http://www8.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2017/72.html['MA'
+and Department of Veterans' Affairs (Freedom of information)]_ [2017]
+AICmr 72 (26 July 2017)
+
+[105]–[112]
+
+ a|
+* Names and contact information of staff included in documents due to
+their usual duties and responsibilities.
+* The applicant was a party to the correspondence and the details would
+already be known to them.
+
+a|
+Unreasonable to disclose name
+
+(Section 47F)
+
+ a|
+http://www8.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2017/79.html[_Julian
+Knight and Attorney-General's Department (Freedom of information)_]
+[2017] AICmr 79 (31 August 2017)
+
+[26]–[31]
+
+ a|
+* Disclosing the name of non-Executive officer unreasonable because of
+reasonable expectation that this could subject officer to harassment
+from complainants and other inappropriate contact.
+
+a|
+Substantial adverse impact on agency operations not established
+
+(Section 47E(d))
+
+ a|
+http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2017/101.html?context=1;query=jockel;mask_path=au/cases/cth/AICmr[_Maria
+Jockel and Department of Immigration and Border Protection (Freedom of
+information)_] [2017] AICmr 101 (9 October 2017)
+
+[20]–[21]
+
+ a|
+* The Department did not discharge its onus to establish that it would
+be unreasonable to disclose the names of current staff in an
+organisational chart.
+* It was not established that disclosure of contact details to one
+migration agent could reasonably be expected to occur on a scale that
+would or could have a substantial adverse effect on the proper and
+efficient operations of the Department.
+* Further, contact details had previously been made available to the
+applicant as part of the Department’s stakeholder engagement.
+
+a|
+Not unreasonable to disclose name and signature
+
+(Section 47F)
+
+ a|
+http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2018/59.html[_'PF'
+and Department of Human Services (Freedom of information)_] [2018] AICmr
+59 (11 July 2018)
+
+[43]–[47]
+
+ a|
+* The Department did not establish special circumstances. In particular,
+the Department did not explain why disclosure would be unreasonable when
+the applicant was to be given access to the remainder of the document
+through a qualified person and the officer had met the applicant during
+the course of their duties as a departmental officer.
+* The Department had already given the applicant access to the
+signatures of other public servants in other documents and did not
+explain why a different approach had been taken to the signature at
+issue.
+
+a|
+No substantial adverse impact on agency operations
+
+Not unreasonable to disclose opinions of public servants
+
+(Sections 47E(d) and 47F)
+
+ a|
+http://www8.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2019/9.html[_Reece
+Walters and Great Barrier Reef Marine Park Authority (Freedom of
+information)_] [2019]
+http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2019/9.html[AICmr
+9] (1 March 2019)
+
+[105]–[106], [109] and [124]–[125]
+
+ a|
+* Not established that disclosure of names would, or could reasonably be
+expected to, have a substantial adverse effect on the proper and
+efficient conduct of the operations of the agency.
+* Where comments are made, or opinions expressed, as a result of public
+servants discharging their usual duties or responsibilities, it will not
+be unreasonable to disclose those comments/opinions.
+
+a|
+Irrelevance
+
+Section 22
+
+ a|
+http://www6.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2015/31.html[_‘FM’
+and Department of Foreign Affairs and Trade_ [2015] AICmr 31] (24 April
+2015)
+
+[14]–[15]
+
+ a|
+* There is no logical basis for treating the names of SES officials as
+being within the scope of a request, but the names of other officials as
+being irrelevant.
+
+a|
+Irrelevance
+
+Section 22
+
+ a|
+http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2018/72.html[_'PO'
+and Australian Federal Police (Freedom of information)_ [2018] AICmr 72]
+(19 December 2018)
+
+[16]–[17]
+
+ a|
+* Whether the names and contact details of public servants will be
+irrelevant to the request and able to be deleted under s 22 requires
+consideration of the scope of the request. When an applicant
+specifically seeks documents pertaining to a particular officer it is
+unlikely that the name of that officer can be irrelevant to the request.
+
+|=======================================================================
+
+[[attachment-b]]
+Attachment B
+^^^^^^^^^^^^
+
+[[decisions-other-jurisdictions]]
+Decisions: Other jurisdictions
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Note: Please note that other jurisdictions operate under different
+legislative schemes and the relevant legislative tests may differ from
+those in the Commonwealth jurisdiction.
+
+[cols=",,",options="header",]
+|=======================================================================
+|Decision |Case |Key messages
+a|
+[[not-reasonable-to-disclose-names-when-physical-safety-of-individual-at-risk]]
+Not reasonable to disclose names when physical safety of individual at
+risk
+
+ a|
+https://www.oic.wa.gov.au/PDF_Decs/D0082012.pdf[_Re ‘M’ and WA Country
+Health Service – South West_] [2012] WAICmr 8
+
+Decision of Information Commissioner (Western Australia)
+
+ a|
+* Where fears for safety are reasonably based and established by
+evidence disclosure of public servants’ names and other identifying
+details will be unreasonable.
+
+|Unreasonable to disclose signatures, initials and contact telephone
+numbers a|
+http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/vic/VCAT/2005/2817.html[_Mond
+v Department of Justice (General)_] [2005] VCAT 2817 (22 December 2005)
+
+[45]–[52]
+
+ a|
+* [[it-would-not-be-reasonable-to-disclose-the-signatures-hand-written-initials-or-contact-telephone-numbers-of-cav-consumer-affairs-victoria-officers.]]
+It would not be reasonable to disclose the signatures, hand-written
+initials or contact telephone numbers of CAV [Consumer Affairs Victoria]
+officers.
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+* [[disclosure-under-the-foi-act-is-disclosure-to-the-world-and-it-is-possible-that-signatures-may-be-misused-and-telephone-numbers-used-to-approach-officers-who-are-not-usually-available-to-speak-to-members-of-the-public.-the-applicant-seeks-access-to-substantive-information-not-personal-details-of-officers.]]
+Disclosure under the FOI Act is disclosure to the world and it is
+possible that signatures may be misused and telephone numbers used to
+approach officers who are not usually available to speak to members of
+the public. The applicant seeks access to substantive information, not
+personal details of officers.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+* [[in-the-circumstances-it-would-be-unreasonable-to-disclose-signatures-initials-or-telephone-numbers.]]
+In the circumstances, it would be unreasonable to disclose signatures,
+initials or telephone numbers.
+-----------------------------------------------------------------------------------------------------
+
+|Unreasonable to disclose name and signature of junior officer a|
+http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/vic/VCAT/2014/1360.html[_Roy
+Costa Planning & Development v Mildura CC (Review and Regulation)_]
+[2014] VCAT 1360 (25 September 2014)
+
+[41]
+
+ a|
+* [[it-would-be-unreasonable-in-circumstances-where-the-applicant-said-they-did-not-seek-access-to-the-name-and-signature-of-a-junior-rank-officer-to-disclose-this-information.]]
+It would be unreasonable in circumstances where the applicant said they
+did not seek access to the name and signature of a junior rank officer
+to disclose this information.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+|Unreasonable to disclose name and signature a|
+http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/vic/VCAT/2018/229.html?context=1;query=%5b2018%5d%20VCAT%20229;mask_path=au/cases/vic/VCAT[_Coulson
+v Department of Premier and Cabinet (Review and Regulation)_] [2018]
+VCAT 229 (20 February 2018)
+
+[110]–[119]
+
+ a|
+* [[those-circumstances-involve-litigation-against-two-former-premiers-by-a-former-ministerial-adviser.]]
+Those circumstances involve litigation against two former Premiers by a
+former Ministerial Adviser.
+---------------------------------------------------------------------------------------------------
+* [[it-would-be-unreasonable-to-disclose-the-names-initials-signatures-and-email-addresses-of-non-executive-victorian-public-service-officers-and-subject-them-potential-public-criticism-in-circumstances-where-they-were-implementing-directions-for-which-they-were-not-the-decision-makers-and-cannot-respond-publicly-to-any-personal-attacks-in-relation-to-those-directions.]]
+It would be unreasonable to disclose the names, initials, signatures and
+email addresses of non-executive Victorian Public Service officers’ and
+subject them potential public criticism in circumstances where they were
+implementing directions for which they were not the decision-makers and
+cannot respond publicly to any personal attacks in relation to those
+directions.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+* [[if-names-disclosed-this-would-have-the-potential-to-inhibit-the-candour-and-frankness-of-the-advice-provided-and-the-willingness-of-officers-to-perform-directions-where-they-may-personally-face-public-criticism.]]
+If names disclosed, this would have the potential to inhibit the candour
+and frankness of the advice provided and the willingness of officers to
+perform directions where they may personally face public criticism.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+|Not unreasonable to disclose routine personal work information a|
+https://www.oic.qld.gov.au/__data/assets/pdf_file/0009/7200/310303-Dec-03-01-12.pdf[_Australian
+Broadcasting Corporation and Psychologists Board of Australia_] (3
+January 2012)
+
+Decision of Assistant Information Commissioner (Queensland)
+
+ a|
+* Routine personal work information can be distinguished from other
+personal information.
+* The potential harm from disclosing routine personal work information
+is in most circumstances minimal or non-existent because public service
+officers are employed in the business of government to deliver services
+to the public. The public is generally entitled to know the identity of
+service deliverers, advice givers and decision makers.
+* A reasonable public service officer would expect that information
+which is solely their routine personal work information will be made
+available to the public.
+
+|Names of junior public servants
+|http://informationrights.decisions.tribunals.gov.uk/DBFiles/Decision/i482/20110118_Dun_Decision_EA20100060.pdf[_Dun
+v Information Commissioner and National Audit Office_] (UK) (18 January
+2011) EA/2010/0060 a|
+* There is no blanket level at which all junior public servants’ names
+will be exempt from disclosure. This needs to be decided on a case by
+case basis, through consideration of the role and responsibilities of
+the individual and the information itself.
+
+|Names of junior public servants
+|https://ico.org.uk/media/action-weve-taken/decision-notices/2012/699134/fs_50401773.pdf[_Freedom
+of Information Act 2000 Decision Notice – Information Commissioner’s
+Office_] (UK) (6 February 2012) FS50401773 a|
+* Evidence was provided that in the past correspondence from Home Office
+officials had been published on the internet which led to officials
+being targeted. The Commissioner accepted that the nature of the
+information could lead to individuals being targeted and the distress
+this would cause was a factor which made disclosure of the names of
+junior home office officials unfair.
+
+|Public servants’ names
+|http://informationrights.decisions.tribunals.gov.uk/DBFiles/Decision/i603/20111104%20Decision%20EA20110104.pdf[_Joe
+McGonagle v Information Commissioner and Ministry of Defence_] (UK) (4
+November 2011) a|
+* It will not be unreasonable to disclose the names of officials who
+speak to the media or who represent the Department at outside functions.
+
+|Names of senior staff in relevant authority
+|https://ico.org.uk/media/action-weve-taken/decision-notices/2009/469252/FS_50125350.pdf[_Freedom
+of Information Act 2000 Decision Notice_ _– Information Commissioner’s
+Office_] (UK) 16 June 2009 (FS50125350) a|
+* Decision to disclose the names of senior staff.
+* The Information Commissioner was satisfied there was a legitimate
+public interest in knowing who was responsible for important decisions
+involving significant sums of public money.
+
+|Not unreasonable to disclose names of public servants a|
+http://www.ombudsman.parliament.nz/system/paperclip/document_files/document_files/532/original/identities_of_submitters_and_staff_involved_in_decision.pdf?1358974467[_Ombudsman’s
+opinion under the Official Information Act_]
+
+Opinion of New Zealand Ombudsman Ref: 320402 (14 December 2012)
+
+[4]–[21]
+
+ a|
+* The Ombudsman did not accept an argument that ‘less senior’ staff
+without decision making responsibility have privacy interests that need
+protecting.
+* ‘The names of officials should, in principle, be made available when
+requested. All such information normally discloses is the fact of an
+individual's employment and what they are doing in that role. Anonymity
+may be justified if a real likelihood of harm can be identified but it
+is normally reserved for special circumstances such as where safety
+concerns arise.’
+
+|=======================================================================
