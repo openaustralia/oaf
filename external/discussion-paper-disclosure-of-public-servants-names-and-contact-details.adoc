@@ -1,10 +1,12 @@
 [[disclosure-of-public-servants-names-and-contact-details]]
 Disclosure of public servants’ names and contact details
---------------------------------------------------------
+========================================================
 :doctype: article
 :website: https://www.oaic.gov.au/engage-with-us/consultations/disclosure-of-public-servants-names-and-contact-details/discussion-paper-disclosure-of-public-servants-names-and-contact-details
 :author: Office of the Australian Information Commissioner
 :date: July 2019
+:toc:
+
 [[discussion-paper]]
 Discussion paper
 ----------------
@@ -13,7 +15,7 @@ July 2019
 
 [[summary]]
 Summary
-~~~~~~~
+~~~~~~
 
 The Office of the Australian Information Commissioner (OAIC) is aware of
 agency concerns about the disclosure of public servants’ names and
@@ -59,7 +61,8 @@ access to information from an Australian Government agency or minister.
 To assist you to do this, at the end of this paper we have posed a
 series of questions to explore the issues and have provided information
 about how you can submit your comments.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+'''
 
 The information gathered as part of this consultation will be used to
 consider whether the FOI Guidelines provide sufficient and appropriate
