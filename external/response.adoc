@@ -7,8 +7,13 @@ OpenAustralia Foundation response to OAIC regarding disclosure of public servant
 :toc:
 
 
-Overall
--------
+The OAF broadly supports the OAIC's position
+--------------------------------------------
+
+[quote, 'https://www.oaic.gov.au/engage-with-us/consultations/disclosure-of-public-servants-names-and-contact-details/discussion-paper-disclosure-of-public-servants-names-and-contact-details[Question 10]']
+____
+What are your views on deletion of the names of public servants and their contact details before documents are released in response to an FOI request? What are the reasons for your view?
+____
 
 The discussion paper states that:
 ____
@@ -32,137 +37,44 @@ Again, this is in agreement with the Act, which provides grounds for withholding
 
 We feel that taking the opposite view - that is, starting from the assumption that it's not reasonable to disclose names of public servants carrying out their ordinary duties unless special circumstances make it reasonable - would be contrary to the Act's stated objects of `increasing scrutiny, discussion, comment and review of the Government's activities`, as it would effectively shield most public servants from scrutiny, comment, and review.
 
-* Vic decision
-	** Made under Vic law
-	**  Different from Federal
-	**  Several of the factors considered here - such as causing confusion because the documents only give partial context, and subjecting the government to embarrassment - are expressly unable to be considered at the federal level.
-	**  We are unable to find a distinction between subjecting an official to "public criticism", which was seen as a factor in the victorian case, with "holding accountable", which is one of the objects of the federal law.
-	**  It's our belief, reinforced by what we've seen operating RightToKnow, that the best way to avoid this confusion and inappropriate criticism, is not more secrecy, but rather more openness.
-	**  For instance, being open about the fact that a public servant was simply following policies that they had no say in drafting is more effective than trying to hide their name 
-	**  We  also point to findings from the NZ government, which has found that routine transparency about the provision of advice does not hinder openness, but rather improves the quality of advice
+Concerns about findings in one case
+-----------------------------------
 
-* Final consideration
-** Govt/OAIC position on DSR and MHR has been that legislation preventing malicious uses of data is all the protection that's needed
-** While the Foundation doesn't entirely agree with this position, we feel that it's important that the standards the government applies to citizens should generally apply to public servants as well.  Obviously there are cases where greater privacy is warranted, and the existing Act deals with these. If public servants were granted a special right to privacy exceeding that of ordinary citizens it would create a dangerous inability to hold the government accountable, against the objects of the act.
+There is one particular case cited by OAIC that we'd like to examine in more detail: http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/vic/VCAT/2018/229.html?context=1;query=%5b2018%5d%20VCAT%20229;mask_path=au/cases/vic/VCAT[Coulson v Department of Premier and Cabinet (Review and Regulation)]. 
 
-Summary of discussion
----------------------
+The OAIC summarises this judgement in this case this way:
 
-> this paper focusses on the circumstances in which public servants’ names and contact details are included in the documents at issue, and the FOI Act provisions that agencies have relied on to withhold this information from disclosure — namely ss http://www.austlii.edu.au/cgi-bin/viewdoc/au/legis/cth/consol_act/foia1982222/s22.html[22] (relevance), http://www.austlii.edu.au/cgi-bin/viewdoc/au/legis/cth/consol_act/foia1982222/s47e.html[47E(c)] (substantial adverse effect on the management or assessment of personnel), http://www.austlii.edu.au/cgi-bin/viewdoc/au/legis/cth/consol_act/foia1982222/s47e.html[47E(d)] (substantial adverse effect on agency operations) and http://www.austlii.edu.au/cgi-bin/viewdoc/au/legis/cth/consol_act/foia1982222/s47f.html[47F] (personal privacy).
-
-This response will primarily focus on 47F; in particular, 47F(1) and 47F(2)
-____
-  (1)  A document is conditionally exempt if its disclosure under this Act would involve the unreasonable disclosure of personal information about any person (including a deceased person).
-  (2)  In determining whether the disclosure of the document would involve the unreasonable disclosure of personal information, an agency or Minister must have regard to the following matters:
-   (a)  the extent to which the information is well known;
-   (b)  whether the person to whom the information relates is known to be (or to have been) associated with the matters dealt with in the document;
-   (c)  the availability of the information from publicly accessible sources;
-   (d)  any other matters that the agency or Minister considers relevant.
-____
-
-Primary factors to consider
----------------------------
-
-We consider that the decisions to be made here largely involve balancing two factors:
-
-* On the one hand, the General Objects of rhe FOI Act 1982, as given in http://www.austlii.edu.au/cgi-bin/viewdoc/au/legis/cth/consol_act/foia1982222/s3.html[Sect 3]
-+
-____
-  (1)  The objects of this Act are to give the Australian community access to information held by the Government of the Commonwealth, by:
-    (a)  requiring agencies to publish the information; and
-    (b)  providing for a right of access to documents.
-  (2)  The Parliament intends, by these objects, to promote Australia's representative democracy by contributing towards the following:
-    (a)  increasing public participation in Government processes, with a view to promoting better-informed decision-making;
-    (b)  increasing scrutiny, discussion, comment and review of the Government's activities.
-  (3)  The Parliament also intends, by these objects, to increase recognition that information held by the Government is to be managed for public purposes, and is a national resource.
-  (4)  The Parliament also intends that functions and powers given by this Act are to be performed and exercised, as far as possible, to facilitate and promote public access to information, promptly and at the lowest reasonable cost.
-____
-
-* On the other hand, the changing online environment; which makes it easier for documents released under FOI to be published and widely spread; and makes it easier for persons so inclined to harass and intimidate public servants. The Act is intended to `increase scrutiny, discussion, comment and review of the Government's activities`; not to increase harrassment and intimidation of public servants.
-
-Broader Context
----------------
-
-We suggest that in considering this question, it's worth also looking at broader factors, such as:
-
-* Privacy provisions and consideratsions in other recent discussions, such as the https://www.oaic.gov.au/engage-with-us/submissions/new-australian-government-data-sharing-and-release-legislation-submission-to-department-of-prime-minister-and-cabinet[Data Sharing and Release legislation] and My Health Record
-
-    ** In both of these cases, there's very little technical barrier provided to protect personal information; instead, the fact that legislation prohibits sharing or certain uses of personal information is cited as being sufficient
-
-    ** This reasoning would suggest that it's also not neccessary to do anything to protect public servant's personal information other than pass legislation prohibiting certain uses. If that's not felt to be sufficient, it's probably not sufficient in the cases of MHR and DSR either.
-
-* Cases listed in the paper
-
-    ** Overwhelming majority of decisions seem to be based on the identify of the requestor, and what they are believed to already know, and what is believed to be their state of mind or intended use of the information
-
-    ** One exception - WA 2005 case, which stated that release under FOI is release to the world.
-
-    ** This seems to be in accordance with http://www.austlii.edu.au/cgi-bin/viewdoc/au/legis/cth/consol_act/foia1982222/s11c.html[Sect 11C Publication of information in accessed documents] which requires that most information released under FOIA be listed
-
-    ** Further, considering the applicant's state of mind or intentions seems counter to http://www.austlii.edu.au/cgi-bin/viewdoc/au/legis/cth/consol_act/foia1982222/s11.html[11(2)]
-+
-____
-      (2)  Subject to this Act, a person's right of access is not affected by:
-        (a)  any reasons the person gives for seeking access; or
-        (b)  the agency's or Minister's belief as to what are his or her reasons for seeking access.
-____
-
-* Notable exceptions
-    ** One case in which it was held that it was not reasonable to publish the names of staff who were only following directions. This seems contrary to `increasing scrutiny, discussion, comment, and review of the Government's activities`.
-    ** Another case in which it was held that making the identities of advisors who had given particular advice public could lead to public criticism; it seems that this is the intended outcome. Compare with the https://www.lawcom.govt.nz/sites/default/files/projectAvailableFormats/NZLC%20R40.pdf[New Zealand experience]:
-
-+
-____
-The assumption that policy advice will eventually be released under the Act has in our view improved the quality and transparency of that advice.
-____
-
-
-OAF Position
-------------
-
-[quote, 'https://www.oaic.gov.au/engage-with-us/consultations/disclosure-of-public-servants-names-and-contact-details/discussion-paper-disclosure-of-public-servants-names-and-contact-details[Question 10]']
-____
-What are your views on deletion of the names of public servants and their contact details before documents are released in response to an FOI request? What are the reasons for your view?
-____
-
-* Intention of the Act is to provide for transparency and accountability; we feel that this is only possible if individual advisors and public servants are able to be held accountable for their actions
-
-    ** We don't believe that this requires that names and other contact details must always be published in full. We believe that the aims of the act would be achieved as long as the published information was later able to be re-identified when required by eg a court of law
-    
-    ** We note that 47F(2) stipulates that factors such as "the extent to which the information is well known", and "whether the person to hom the information relates is known to be (or to have been) associated with the matters dealt with in the document". We believe these would suggest that there are many cases where it is reasonable to disclose names of persons providing advice or performing their usual duties simply because this information is already well-known or public record.
-
-* We strongly reject the idea that embarrassment etc are sufficient reasons for withholding the names of a public servant or advisor; we believe that any suggestion that this is sufficient reson directly contraditcts 11B(4), and undermines 3(2)
-
-* Except in cases where a requestor is requesting information relating to themselves, we believe that decisions should always be made on the assumption that a document will be published to the world.
-
-Rewrite
--------
-
-Circumstances which justify redacting personal information
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-* We feel that the OAIC's view as expressed in the discussion paper is reasonable. There are reasons why some types of information should be generally exempt. There are sometimes special circumstances reasonable to withhold even a public servant's name. However, in order to fulfill the act's objects of `increasing scrutiny, discussion, comment and review of the Government's activities.`, the starting assumption should always be the assumption that disclosing a public servant's name is reasonable unless special circumstances can be identified.
-
-* Most of the cases cited in the discussion paper broadly agree with this
-
-Counterexample
-~~~~~~~~~~~~~~
-
-* There is one particular case which we find particularly concerning: http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/vic/VCAT/2018/229.html?context=1;query=%5b2018%5d%20VCAT%20229;mask_path=au/cases/vic/VCAT[Coulson v Department of Premier and Cabinet (Review and Regulation)]. 
-+
-The OAIC summarises this decision like this:
-+
 ____
 - It would be unreasonable to disclose the names, initials, signatures and email addresses of non-executive Victorian Public Service officers’ and subject them potential public criticism in circumstances where they were implementing directions for which they were not the decision-makers and cannot respond publicly to any personal attacks in relation to those directions.
 - If names disclosed, this would have the potential to inhibit the candour and frankness of the advice provided and the willingness of officers to perform directions where they may personally face public criticism.
 ____
 
-** We would like to note that this decision was made in Victoria, and was heavily influenced by some of the specifics of that law.
-** We would hope that under federal law, S11(b)4 would result in a different decision
-** We consider the federal law to be superior here. We don't think that it's neccessary to go into detail of the history of the Superior Orders defense to explain why we find that problematic.
-** We also note that NZ has found that routine disclosure does not `inhibit the candour and frankness of the advice provided`; in fact, NZ has found that routine disclosure increases the quality of the provided advice.
-** If the act's objectives of `increasing scrutiny, discussion, comment and review of the Government's activities` makes people unwilling to perform directions because they feel that such actions would subject them to criticism, we consider that the act has achieved its objectives.
+We would like to stress that this decision was made under Victorian law, which differs in several important aspects from the Federal law. We feel that this decision would likely not be possible under the federal FOI act, as it seems to run counter to  http://www.austlii.edu.au/cgi-bin/viewdoc/au/legis/cth/consol_act/foia1982222/s11b.html[Sect 11B(4)]. 
 
-* In addition, OAIC's advice  on both data sharing and my health record has been that the public only needs legislative protection against misuse of data; if public servants were to be routinely accorded more privacy protections than the general public, this would be very problematic (edited)  
+In particular, this decisions seems to have been reached in part because it was felt that "access to the document could result in any person misinterpreting or misunderstanding the document", and that "access to the document could result in confusion or unnecessary debate", and that "Access to the document could result in embarrassment or a loss of confidence" in the Victorian government. All of these grounds are specifically listed as things that "must not be taken into account" under the federal FOI act.
 
+Further, we feel that there's little distinction between the "public criticism" which this decision cites as a reason to withhold information, and the "scrutiny, discussion, comment and review of the Government's activities" which the FOI act aims to achieve.
 
+We acknowledge that the Victorian decisions reaches this conclusion in part because the individuals in question are prohibited from responding publicly to any criticism that might be directed at them personally. However, it is our belief, based on the many FOI requests we have seen go through righttoknow.org.au, that the best counter to this is not withholding information but releasing more. In this case, if the information disclosed made it clear that the persons named were not the decision-makers, that would tend to deflect criticism away from the named persons.
+
+We also note in passing that this defense bears more than a passing resemblance to the Nuremberg Defence. We don't think it's neccessary to explain why this is of concern.
+
+Lastly, we would like to touch on the notion that disclosing the names of those who provided advice to the government "would have the potential to inhibit the candour and frankness of the advice provided" runs counter to our experience. We would instead point to, for instance, the 1997 New Zealand https://www.lawcom.govt.nz/sites/default/files/projectAvailableFormats/NZLC%20R40.pdf[Review of the Official Information Act 1982], which found that
+____
+The assumption that policy advice will eventually be released under the Act has in our view improved the quality and transparency of that advice.
+____
+
+For all these reasons, we feel that the Federal provisions and the OAIC's stance is broadly speaking correct.
+
+Balance with protections afforded citizens
+------------------------------------------
+
+We feel that it's also worth taking note of two other recent issues which have been examined both by the OAIC and by the public, which concern the disclosure and relase of private information, including names and contact details, of private citizens - specifically, the Data Sharing and Release legislation (DSR) and MyHealthRecord.
+
+In the case of the DSR, the https://www.oaic.gov.au/engage-with-us/submissions/new-australian-government-data-sharing-and-release-legislation-submission-to-department-of-prime-minister-and-cabinet[OAIC's submission] to the PMC acknowledges very significant risks associated with any sharing of citizen's personal identifiable information, and further notes that "86% of Australians considered a secondary use of their information to be a misuse of their personal information". Despite this, the OAIC "supports the Issues Paper’s consideration of an alternate release mechanism" for fully identifiable information about individual citizens under the DSR. 
+
+In the case of MHR, there is again no strong protection given to individual's private information. It is an intended function of the system that health care operators are able to bypass privacy controls on information in MHR fairly easily; this use is intended to be used only in cases of emergency, but there is little to stop a malicious person from using this access, and little that an individual can do to protect themselves against it.
+
+In both these cases, the OAIC and the Government's position has been that simply legislating against certain uses of an individual's information is all that needs to be done to prevent it from being misused.
+
+While the Foundation doesn't entirely agree with this position, we feel that it's important that the standards the Government applies to citizens should generally apply to public servants as well. If public servants were routinely granted a special right to privacy exceeding that of ordinary citizens, we feel that it would create a dangerous inability to increase "scrutiny, discussion, comment and review of the Government's activities".
