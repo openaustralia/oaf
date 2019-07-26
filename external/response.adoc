@@ -6,6 +6,45 @@ OpenAustralia Foundation response to OAIC regarding disclosure of public servant
 :date: July 2019
 :toc:
 
+
+Overall
+-------
+
+The discussion paper states that:
+____
+The OAIC’s view, as expressed in the FOI Guidelines, is that it would not be unreasonable to disclose public servants’ personal information unless special circumstances exist:
+____
+
+The Foundation believes that this accords well with the General Objects of the FOI Act 1982, as given in http://www.austlii.edu.au/cgi-bin/viewdoc/au/legis/cth/consol_act/foia1982222/s3.html[Sect 3(2)]
++
+____
+  (2)  The Parliament intends, by these objects, to promote Australia's representative democracy by contributing towards the following:
+    (a)  increasing public participation in Government processes, with a view to promoting better-informed decision-making;
+    (b)  increasing scrutiny, discussion, comment and review of the Government's activities.
+____
+
+The discussion paper goes on to say that:
+____
+The FOI Guidelines recognise that in some circumstances disclosure of public servants’ personal information, including their names, may be unreasonable
+____
+
+Again, this is in agreement with the Act, which provides grounds for withholding personal information in clausess such S47F. The majority decisions cited in the discussion paper seem to agree with this guidance, in that they look at specific circumstances of each case and withhold information when appropriate.
+
+We feel that taking the opposite view - that is, starting from the assumption that it's not reasonable to disclose names of public servants carrying out their ordinary duties unless special circumstances make it reasonable - would be contrary to the Act's stated objects of `increasing scrutiny, discussion, comment and review of the Government's activities`, as it would effectively shield most public servants from scrutiny, comment, and review.
+
+* Vic decision
+	** Made under Vic law
+	**  Different from Federal
+	**  Several of the factors considered here - such as causing confusion because the documents only give partial context, and subjecting the government to embarrassment - are expressly unable to be considered at the federal level.
+	**  We are unable to find a distinction between subjecting an official to "public criticism", which was seen as a factor in the victorian case, with "holding accountable", which is one of the objects of the federal law.
+	**  It's our belief, reinforced by what we've seen operating RightToKnow, that the best way to avoid this confusion and inappropriate criticism, is not more secrecy, but rather more openness.
+	**  For instance, being open about the fact that a public servant was simply following policies that they had no say in drafting is more effective than trying to hide their name 
+	**  We  also point to findings from the NZ government, which has found that routine transparency about the provision of advice does not hinder openness, but rather improves the quality of advice
+
+* Final consideration
+** Govt/OAIC position on DSR and MHR has been that legislation preventing malicious uses of data is all the protection that's needed
+** While the Foundation doesn't entirely agree with this position, we feel that it's important that the standards the government applies to citizens should generally apply to public servants as well.  Obviously there are cases where greater privacy is warranted, and the existing Act deals with these. If public servants were granted a special right to privacy exceeding that of ordinary citizens it would create a dangerous inability to hold the government accountable, against the objects of the act.
+
 Summary of discussion
 ---------------------
 
