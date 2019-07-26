@@ -95,3 +95,35 @@ ____
 * We strongly reject the idea that embarrassment etc are sufficient reasons for withholding the names of a public servant or advisor; we believe that any suggestion that this is sufficient reson directly contraditcts 11B(4), and undermines 3(2)
 
 * Except in cases where a requestor is requesting information relating to themselves, we believe that decisions should always be made on the assumption that a document will be published to the world.
+
+Rewrite
+-------
+
+Circumstances which justify redacting personal information
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* We feel that the OAIC's view as expressed in the discussion paper is reasonable. There are reasons why some types of information should be generally exempt. There are sometimes special circumstances reasonable to withhold even a public servant's name. However, in order to fulfill the act's objects of `increasing scrutiny, discussion, comment and review of the Government's activities.`, the starting assumption should always be the assumption that disclosing a public servant's name is reasonable unless special circumstances can be identified.
+
+* Most of the cases cited in the discussion paper broadly agree with this
+
+Counterexample
+~~~~~~~~~~~~~~
+
+* There is one particular case which we find particularly concerning: http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/vic/VCAT/2018/229.html?context=1;query=%5b2018%5d%20VCAT%20229;mask_path=au/cases/vic/VCAT[Coulson v Department of Premier and Cabinet (Review and Regulation)]. 
++
+The OAIC summarises this decision like this:
++
+____
+- It would be unreasonable to disclose the names, initials, signatures and email addresses of non-executive Victorian Public Service officers’ and subject them potential public criticism in circumstances where they were implementing directions for which they were not the decision-makers and cannot respond publicly to any personal attacks in relation to those directions.
+- If names disclosed, this would have the potential to inhibit the candour and frankness of the advice provided and the willingness of officers to perform directions where they may personally face public criticism.
+____
+
+** We would like to note that this decision was made in Victoria, and was heavily influenced by some of the specifics of that law.
+** We would hope that under federal law, S11(b)4 would result in a different decision
+** We consider the federal law to be superior here. We don't think that it's neccessary to go into detail of the history of the Superior Orders defense to explain why we find that problematic.
+** We also note that NZ has found that routine disclosure does not `inhibit the candour and frankness of the advice provided`; in fact, NZ has found that routine disclosure increases the quality of the provided advice.
+** If the act's objectives of `increasing scrutiny, discussion, comment and review of the Government's activities` makes people unwilling to perform directions because they feel that such actions would subject them to criticism, we consider that the act has achieved its objectives.
+
+* In addition, OAIC's advice  on both data sharing and my health record has been that the public only needs legislative protection against misuse of data; if public servants were to be routinely accorded more privacy protections than the general public, this would be very problematic (edited)  
+
+
