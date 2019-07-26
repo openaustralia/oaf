@@ -21,7 +21,7 @@ The OAIC’s view, as expressed in the FOI Guidelines, is that it would not be u
 ____
 
 The Foundation believes that this accords well with the General Objects of the FOI Act 1982, as given in http://www.austlii.edu.au/cgi-bin/viewdoc/au/legis/cth/consol_act/foia1982222/s3.html[Sect 3(2)]
-+
+
 ____
   (2)  The Parliament intends, by these objects, to promote Australia's representative democracy by contributing towards the following:
     (a)  increasing public participation in Government processes, with a view to promoting better-informed decision-making;
