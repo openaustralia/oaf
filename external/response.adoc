@@ -1,26 +1,29 @@
-OpenAustralia Foundation response to OAIC regarding disclosure of public servant's names and contact details
-============================================================================================================
+OpenAustralia Foundation response
+=================================
 :doctype: article
 :website: https://wwww.oaf.org.au
 :author: James Polley <james@oaf.org.au> on behalf of the OpenAustralia Foundation
 :date: July 2019
 :toc:
 
-
-The OAF broadly supports the OAIC's position
---------------------------------------------
-
-[quote, 'https://www.oaic.gov.au/engage-with-us/consultations/disclosure-of-public-servants-names-and-contact-details/discussion-paper-disclosure-of-public-servants-names-and-contact-details[Question 10]']
+[quote, 'https://www.oaic.gov.au/engage-with-us/consultations/disclosure-of-public-servants-names-and-contact-details/discussion-paper/#consultation-questions[Question 10]']
 ____
 What are your views on deletion of the names of public servants and their contact details before documents are released in response to an FOI request? What are the reasons for your view?
 ____
+
+In short, the OpenAustralia Foundation, based on our experience running RightToKnow.org, broadly supports the OAIC's position on this question.
+
+We feel that the OAIC's current position is a good balance between the right to individual privacy enjoyed by all Australians, including public servants; with the important Objects of the FOI Act, which aims to increase scrutiny, discussion, comment and review of Government's activities.
+
+The OAF broadly supports the OAIC's position
+--------------------------------------------
 
 The discussion paper states that:
 ____
 The OAIC’s view, as expressed in the FOI Guidelines, is that it would not be unreasonable to disclose public servants’ personal information unless special circumstances exist:
 ____
 
-The Foundation believes that this accords well with the General Objects of the FOI Act 1982, as given in http://www.austlii.edu.au/cgi-bin/viewdoc/au/legis/cth/consol_act/foia1982222/s3.html[Sect 3(2)]
+The Foundation believes that this aligns well with the General Objects of the FOI Act 1982, as given in http://www.austlii.edu.au/cgi-bin/viewdoc/au/legis/cth/consol_act/foia1982222/s3.html[Sect 3(2)]
 
 ____
   (2)  The Parliament intends, by these objects, to promote Australia's representative democracy by contributing towards the following:
@@ -57,9 +60,9 @@ Further, we feel that there's little distinction between the "public criticism" 
 
 We acknowledge that the Victorian decisions reaches this conclusion in part because the individuals in question are prohibited from responding publicly to any criticism that might be directed at them personally. However, it is our belief, based on the many FOI requests we have seen go through righttoknow.org.au, that the best counter to this is not withholding information but releasing more. In this case, if the information disclosed made it clear that the persons named were not the decision-makers, that would tend to deflect criticism away from the named persons.
 
-We also note in passing that this defense bears more than a passing resemblance to the Nuremberg Defence. We don't think it's neccessary to explain why this is of concern.
+We also note in passing that this defense bears more than a passing resemblance to the Nuremberg Defence. We don't think it's neccessary to go into detail about why this is of concern.
 
-Lastly, we would like to touch on the notion that disclosing the names of those who provided advice to the government "would have the potential to inhibit the candour and frankness of the advice provided" runs counter to our experience. We would instead point to, for instance, the 1997 New Zealand https://www.lawcom.govt.nz/sites/default/files/projectAvailableFormats/NZLC%20R40.pdf[Review of the Official Information Act 1982], which found that
+Lastly, we would like to mention that the notion that disclosing the names of those who provided advice to the government "would have the potential to inhibit the candour and frankness of the advice provided" runs counter to our experience. We would instead point to, for instance, the 1997 New Zealand https://www.lawcom.govt.nz/sites/default/files/projectAvailableFormats/NZLC%20R40.pdf[Review of the Official Information Act 1982], which found that
 ____
 The assumption that policy advice will eventually be released under the Act has in our view improved the quality and transparency of that advice.
 ____
@@ -69,7 +72,7 @@ For all these reasons, we feel that the Federal provisions and the OAIC's stance
 Balance with protections afforded citizens
 ------------------------------------------
 
-We feel that it's also worth taking note of two other recent issues which have been examined both by the OAIC and by the public, which concern the disclosure and relase of private information, including names and contact details, of private citizens - specifically, the Data Sharing and Release legislation (DSR) and MyHealthRecord.
+We feel that it's also worth taking note of two other recent issues which have been examined both by the OAIC and by the public, which concern the disclosure and relase of private information, including names and contact details, of private citizens. Specifically, we would like to look at the Data Sharing and Release legislation (DSR) and MyHealthRecord (MHR).
 
 In the case of the DSR, the https://www.oaic.gov.au/engage-with-us/submissions/new-australian-government-data-sharing-and-release-legislation-submission-to-department-of-prime-minister-and-cabinet[OAIC's submission] to the PMC acknowledges very significant risks associated with any sharing of citizen's personal identifiable information, and further notes that "86% of Australians considered a secondary use of their information to be a misuse of their personal information". Despite this, the OAIC "supports the Issues Paper’s consideration of an alternate release mechanism" for fully identifiable information about individual citizens under the DSR. 
 
